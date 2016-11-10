@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_StudentsAndCourses", "Task1_StudentsAndCourses\Task1_StudentsAndCourses.csproj", "{9F890E19-17C3-4848-9B1D-9A03996C81A3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{D45A6757-CCF8-43CE-9121-BAAD0B8308C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School.Tests", "School.Tests\School.Tests.csproj", "{D7DAAFF7-59B3-4ED1-BACA-E4AD3DE37A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F890E19-17C3-4848-9B1D-9A03996C81A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F890E19-17C3-4848-9B1D-9A03996C81A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F890E19-17C3-4848-9B1D-9A03996C81A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F890E19-17C3-4848-9B1D-9A03996C81A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DAAFF7-59B3-4ED1-BACA-E4AD3DE37A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DAAFF7-59B3-4ED1-BACA-E4AD3DE37A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DAAFF7-59B3-4ED1-BACA-E4AD3DE37A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DAAFF7-59B3-4ED1-BACA-E4AD3DE37A85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D7DAAFF7-59B3-4ED1-BACA-E4AD3DE37A85} = {D45A6757-CCF8-43CE-9121-BAAD0B8308C4}
+	EndGlobalSection
+EndGlobal

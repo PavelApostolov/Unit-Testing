@@ -1,0 +1,11 @@
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.dll
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\bin\Debug\Cars.Tests.JustMock.pdb
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\bin\Debug\Cars.dll
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\bin\Debug\nunit.framework.dll
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.dll
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\bin\Debug\Cars.pdb
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\bin\Debug\nunit.framework.xml
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\bin\Debug\Telerik.JustMock.xml
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.dll
+C:\Users\Pavel\Desktop\New folder\Cars.Tests.JustMock\obj\Debug\Cars.Tests.JustMock.pdb

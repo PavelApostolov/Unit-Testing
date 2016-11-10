@@ -1,0 +1,6 @@
+C:\Users\Pavel\Desktop\UnitTestingHomework\Task1_StudentsAndCourses\bin\Debug\Task1_StudentsAndCourses.dll.config
+C:\Users\Pavel\Desktop\UnitTestingHomework\Task1_StudentsAndCourses\bin\Debug\Task1_StudentsAndCourses.dll
+C:\Users\Pavel\Desktop\UnitTestingHomework\Task1_StudentsAndCourses\bin\Debug\Task1_StudentsAndCourses.pdb
+C:\Users\Pavel\Desktop\UnitTestingHomework\Task1_StudentsAndCourses\obj\Debug\Task1_StudentsAndCourses.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\UnitTestingHomework\Task1_StudentsAndCourses\obj\Debug\Task1_StudentsAndCourses.dll
+C:\Users\Pavel\Desktop\UnitTestingHomework\Task1_StudentsAndCourses\obj\Debug\Task1_StudentsAndCourses.pdb

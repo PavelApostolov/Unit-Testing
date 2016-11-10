@@ -1,0 +1,5 @@
+C:\Users\Pavel\Desktop\TDDHomework\Demo\bin\Debug\Poker.exe
+C:\Users\Pavel\Desktop\TDDHomework\Demo\bin\Debug\Poker.pdb
+C:\Users\Pavel\Desktop\TDDHomework\Demo\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\TDDHomework\Demo\obj\Debug\Poker.exe
+C:\Users\Pavel\Desktop\TDDHomework\Demo\obj\Debug\Poker.pdb

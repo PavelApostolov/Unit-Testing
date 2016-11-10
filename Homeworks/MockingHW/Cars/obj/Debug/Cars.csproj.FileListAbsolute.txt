@@ -1,0 +1,5 @@
+C:\Users\Pavel\Desktop\MockingHW\Cars\bin\Debug\Cars.dll
+C:\Users\Pavel\Desktop\MockingHW\Cars\bin\Debug\Cars.pdb
+C:\Users\Pavel\Desktop\MockingHW\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\MockingHW\Cars\obj\Debug\Cars.dll
+C:\Users\Pavel\Desktop\MockingHW\Cars\obj\Debug\Cars.pdb

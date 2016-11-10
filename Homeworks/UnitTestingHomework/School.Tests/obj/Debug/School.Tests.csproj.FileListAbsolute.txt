@@ -1,0 +1,14 @@
+C:\Users\MartyMarian\Desktop\Telerik Academy\KPK\UnitTestingHomework\School.Tests\bin\Debug\School.Tests.dll
+C:\Users\MartyMarian\Desktop\Telerik Academy\KPK\UnitTestingHomework\School.Tests\bin\Debug\School.Tests.pdb
+C:\Users\MartyMarian\Desktop\Telerik Academy\KPK\UnitTestingHomework\School.Tests\obj\Debug\School.Tests.csprojResolveAssemblyReference.cache
+C:\Users\MartyMarian\Desktop\Telerik Academy\KPK\UnitTestingHomework\School.Tests\obj\Debug\School.Tests.dll
+C:\Users\MartyMarian\Desktop\Telerik Academy\KPK\UnitTestingHomework\School.Tests\obj\Debug\School.Tests.pdb
+C:\Users\MartyMarian\Desktop\Telerik Academy\KPK\UnitTestingHomework\School.Tests\bin\Debug\Task1_StudentsAndCourses.dll
+C:\Users\MartyMarian\Desktop\Telerik Academy\KPK\UnitTestingHomework\School.Tests\bin\Debug\Task1_StudentsAndCourses.pdb
+C:\Users\Pavel\Desktop\UnitTestingHomework\School.Tests\bin\Debug\School.Tests.dll
+C:\Users\Pavel\Desktop\UnitTestingHomework\School.Tests\bin\Debug\School.Tests.pdb
+C:\Users\Pavel\Desktop\UnitTestingHomework\School.Tests\bin\Debug\Task1_StudentsAndCourses.dll
+C:\Users\Pavel\Desktop\UnitTestingHomework\School.Tests\bin\Debug\Task1_StudentsAndCourses.pdb
+C:\Users\Pavel\Desktop\UnitTestingHomework\School.Tests\obj\Debug\School.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\UnitTestingHomework\School.Tests\obj\Debug\School.Tests.dll
+C:\Users\Pavel\Desktop\UnitTestingHomework\School.Tests\obj\Debug\School.Tests.pdb

@@ -1,0 +1,8 @@
+C:\Users\Pavel\Desktop\01. Unit Testing\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\DeckTests.dll
+C:\Users\Pavel\Desktop\01. Unit Testing\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\DeckTests.pdb
+C:\Users\Pavel\Desktop\01. Unit Testing\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\nunit.framework.dll
+C:\Users\Pavel\Desktop\01. Unit Testing\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\Santase.Logic.dll
+C:\Users\Pavel\Desktop\01. Unit Testing\Task2.UnitTestTheDeckClass\DeckTests\bin\Debug\nunit.framework.xml
+C:\Users\Pavel\Desktop\01. Unit Testing\Task2.UnitTestTheDeckClass\DeckTests\obj\Debug\DeckTests.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Desktop\01. Unit Testing\Task2.UnitTestTheDeckClass\DeckTests\obj\Debug\DeckTests.dll
+C:\Users\Pavel\Desktop\01. Unit Testing\Task2.UnitTestTheDeckClass\DeckTests\obj\Debug\DeckTests.pdb
